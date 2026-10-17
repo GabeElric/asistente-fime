@@ -1,0 +1,49 @@
+URL: https://www.fime.uanl.mx/centros-de-computo-2/
+
+REGRESAR
+Inicio
+Compartir:
+Centros de Cómputo
+Equipo especializados y aulas
+2 Salas PLM
+Sala de cómputo con software especializado
+Sala de cómputo
+Se cuenta con sala de cómputo con software especializado, y diverso equipo para medición, monitoreo y control, entre otros.
+Herramientas Computacionales para Alumnos
+Versión Estudiantil de Software Easy Power: Please follow these instructions for downloading EasyPower student software:
+Go to https://www.easypower.com/student
+Enter the MASTER KEY: M2-23286-3M
+Enter your name and university email address. This portion of the email after the @ symbol must match the professor’s EMAIL: uanl.edu.mx
+An email will be sent to the email address you entered with a unique authorization code and EasyPower download link.
+With your unique authorization code, you will be authorized to download and install EasyPower on only one computer. This can’t be moved to another computer.
+Versión Estudiantil de Software ETAP.
+25 Licencias en Red con capacidad máxima de 25 buses para análisis de redes eléctricas.
+Equipo Especializado
+Monitor PC Mouse Teclado
+Maq 1 678776 678069 672652-001 672647-163
+Maq 2 678780 678068 672652-001 672647-163
+Maq 3 678777 678065 672652-001 672647-163
+Maq 3 678778 678064 672652-001 672647-163
+Maq 4 678771 678064 672652-001 672647-163
+Maq 5 678771 678066 672652-001 (FALTA) 672647-163
+Maq 6 678779 678067 672652-001 672647-163
+Maq 7 678781 678062 672652-001 672647-163
+Maq 8 678775 678063 417441-0001 672647-163
+Laboratorio de Robótica
+La Facultad de Ingeniería Mecánica y Eléctrica cuenta con los laboratorios de robótica, los cuales son utilizados en los programas educativos de licenciatura y del posgrado en la carrera de Ingeniero en Mecatrónica y en la Maestría en Ingeniería Mecatrónica en la unidad de aprendizaje de Robótica.
+Laboratorios de Automatización y Sensores
+Los laboratorios de la FIME-UANL de automatización y sensores, son utilizados en los programas educativos de licenciatura y en la Maestría en Ingeniería con Orientación en Mecatrónica para la unidad de aprendizaje; Programación Orientada a la  Automatización y sensores y actuadores.
+Laboratorio de Inteligencia Artificial
+En la Maestría en Ingeniería con Orientación en Mecatrónica se utiliza los espacios del laboratorio de Inteligencia Artificial para La realización de los proyectos integradores en la unidad de aprendizaje de inteligencia artificial.
+CIDET – Centro de Investigación y Desarrollo Tecnológico
+Este recinto está dedicado a la generación de conocimiento y desarrollo tecnológico al sector industrial, a través de sus investigaciones en áreas prioritarias como Mecatrónica, Tecnologías de la Información, Telecomunicaciones, Ingeniería de Materiales, Redes de Suministro y Distribución Eléctrica.
+Laboratorio Nacional de sistemas de transporte y logística CCPI – Centro de Competitividad y Productividad en Ingeniería
+En el laboratorio podemos encontrar cubículos en los que se encuentran 20 computadoras de escritorio marca DELL, 4 computadoras portátiles además que el laboratorio cuenta con impresora láser, escáner, 2 video proyector, cámaras con micrófonos integrados, pizarra Smart y 4 pantallas plana led.
+Ubicado en la oficina 15 del primer piso del CIDET cuenta con memoria RAM de 64 GB, procesador Intel 2.2 MHz, 12 hilos y tiene 2 tarjetas gráficas para programar.
+Ubicado en la oficina 41 del primer piso del CIDET servidor marca DELL PoweEdge T620 Intel Xeon E5-2697v2 2.7GHz con 12 cores cada uno, una memoria RAM de al menos 64 Gb, y disco duro de 1 Tb.
+Ubicado en la oficina 40 del primer piso del CIDET servidor marca DELL Presicion R5400 Rack Workstation, con procesador 2 Quad Core Xeon E5420 a 2.50 GHz y con memoria RAM de 4 GB.
+Licencias
+En cuanto al posgrado se cuenta con 3 licencias que son:
+GAMS, licencia académica que cuenta con los SOLVERS CPLEX, DICOPT, CONOPT Y LINDO GLOBAL, se tiene acceso a ella en la oficina 15, 39 y 41 (una en cada equipo) del primer piso del CIDET.
+MATLAB, se cuenta con cuatro licencias de por vida (versión 2011), esta incluye tres módulos: los cuales son lógica difusa, redes neuronales y estadística.
+Responsable: Facultad de Ingeniería Mecánica y Eléctrica
